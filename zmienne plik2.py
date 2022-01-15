@@ -49,4 +49,4 @@ print("zad6a")
 # a=a+4
 a=int(input("Podaj wartość liczby a"))
 p=a+4
-print("zad6a",p)
+print("zad6a",p)  
