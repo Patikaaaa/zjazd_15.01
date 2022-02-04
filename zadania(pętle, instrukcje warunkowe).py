@@ -44,10 +44,10 @@ for wyraz in 'Patrycja':
     print(wyraz)
 
 #Napisz program wyświetlający na konsoli 17 gwiazdek w jednym rzędzie.
-dziubas=''
+zmienna=''
 for znak in range (17):
-    dziubas=dziubas + '*'
-print(dziubas)
+    zmienna=zmienna + '*'
+print(zmienna)
 
 #Napisz program wyświetlający na konsoli prostokąt z liter P. Wykorzystaj pętle.
 figura=''
